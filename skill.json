@@ -1,0 +1,10 @@
+{
+  "name": "genpark-js-sdk",
+  "version": "1.0.0",
+  "description": "GenPark JS SDK Core Specification & Runtime - JSON-RPC 2.0 message framing, Decorrelated Jitter exponential backoff, and leaky token bucket rate limiting with zero dependencies.",
+  "tools": [
+    "frame_jsonrpc_request",
+    "calculate_decorrelated_jitter_backoff",
+    "simulate_token_bucket_leak"
+  ]
+}
